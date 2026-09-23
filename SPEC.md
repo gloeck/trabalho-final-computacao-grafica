@@ -120,6 +120,10 @@ Para cada um dos requisitos abaixo (detalhados no [Enunciado do Trabalho final -
 
 <mark>`Uma interface gráfica simples será implementada para registrar o andamento das missões do jogo (ex: objetos coletados, “ghost orb” encontrado) e possibilitar o gerenciamento de itens no inventário. O painel de itens dentro da van (que aparece no início e no final do vídeo) pode ser adaptado para o gerenciamento desses itens nessa versão nova do jogo.`</mark>
 
+> Comentário Professor: Não vejo muito sentido na interface gráfica para este jogo. Para obter o efeito visual da lanterna conforme a referência, sugiro fortemente que você implemente sombras como funcionalidade extra.
+
+> Comentário Professor: Alternativamente, detalhe melhor a interface gráfica: você poderá utilizar o mouse para gerenciar os itens? Qual seria um exemplo visual da interface ou do HUD (Heads-Up Display) que você pretende implementar? Inclua uma imagem de referência.
+
 ## Limitações esperadas
 
 > [!IMPORTANT]
